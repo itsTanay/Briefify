@@ -138,6 +138,7 @@ pip install googletrans
 
 - [@AakashSingh20](https://github.com/AakashSingh20)
 - [@Parikshit-007](https://github.com/Parikshit-007)
+- [@ItsTanay](https://github.com/itsTanay)
 
 
 
